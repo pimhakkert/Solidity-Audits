@@ -11,3 +11,21 @@ https://pepes-game.gitbook.io/pepes-docs/
 
 **Discord**  
 https://discord.gg/pepesgame
+
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <td>Date</td>
+      <td>Download</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Audit #1</td>
+      <td>19/03/2023</td>
+      <td><a href="https://github.com/pimhakkert/Solidity-Audits/raw/main/pepes-game/Pepe's%20Game%20Audit.pdf" download>Here</a></td>
+    </tr>
+  </tbody>
+</table>
+
